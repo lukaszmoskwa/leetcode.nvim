@@ -33,6 +33,7 @@
 ---| "signin"
 ---| "loading"
 ---| "next"
+---| "favorite"
 
 --------------------------------------------
 --- Leet Component
